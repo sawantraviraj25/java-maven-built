@@ -6,3 +6,9 @@ second commit from git local
 
 
 chenges from dev1 branch dev1
+
+this is second commit from github
+
+
+
+second chenge from branch dev1
